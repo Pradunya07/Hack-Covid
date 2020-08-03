@@ -16,7 +16,7 @@
  */
 'use strict'
 
-// These requires inform webpack which styles to build
+// These requires inform webpack which styles to build abcasdadsouajsca
 require('bootstrap')
 require('../styles/main.scss')
 
